@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>form</title>
+</head>
+    <body>
+    <h1><mark><big>bem-vindos a minha página</big></mark></h1>
+    <!--oioioioioi-->
+        <label for="cidade">escollha sua cidade:</label>
+        <select id="ciadade" name="cidade">
+    </body>
+</html>
